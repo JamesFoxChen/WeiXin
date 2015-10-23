@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinDuoKeFu", "WeiXinDuoKeFu\WeiXinDuoKeFu.csproj", "{3E69A8A9-16ED-4F7D-AEE1-4F568E5ED168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinCustomMenu", "WeiXinCustomMenu\WeiXinCustomMenu.csproj", "{62E53F69-58C3-4106-A486-7FA907BBE14B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinPay", "WeiXinPay\WeiXinPay.csproj", "{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E69A8A9-16ED-4F7D-AEE1-4F568E5ED168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E69A8A9-16ED-4F7D-AEE1-4F568E5ED168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E69A8A9-16ED-4F7D-AEE1-4F568E5ED168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E69A8A9-16ED-4F7D-AEE1-4F568E5ED168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E53F69-58C3-4106-A486-7FA907BBE14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E53F69-58C3-4106-A486-7FA907BBE14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E53F69-58C3-4106-A486-7FA907BBE14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E53F69-58C3-4106-A486-7FA907BBE14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
