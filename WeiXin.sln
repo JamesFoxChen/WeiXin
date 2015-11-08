@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinCustomMenu", "WeiXinC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinPay", "WeiXinPay\WeiXinPay.csproj", "{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinBaseInfo", "WeiXinBaseInfo\WeiXinBaseInfo.csproj", "{9960D871-27AF-4B94-8DA3-568296037755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiXinCommon", "WeiXinCommon\WeiXinCommon.csproj", "{52D053A7-4BD8-484E-889E-6B3C4A280830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72AA4CE4-07F2-4EAE-8532-C04FB1742A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9960D871-27AF-4B94-8DA3-568296037755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9960D871-27AF-4B94-8DA3-568296037755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9960D871-27AF-4B94-8DA3-568296037755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9960D871-27AF-4B94-8DA3-568296037755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D053A7-4BD8-484E-889E-6B3C4A280830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D053A7-4BD8-484E-889E-6B3C4A280830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D053A7-4BD8-484E-889E-6B3C4A280830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D053A7-4BD8-484E-889E-6B3C4A280830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
